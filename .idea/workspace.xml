@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9455b12-b95b-43fe-b5eb-8d4f0cdc9795" name="Default Changelist" comment="初始提交">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/.env.deployment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/.env.development" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/.env.production" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/build/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/jest.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/jsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/public/tinymce4.7.5/langs/zh_CN.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/public/tinymce4.7.5/plugins/codesample/css/prism.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/public/tinymce4.7.5/plugins/emoticons/img/smiley-cool.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/public/tinymce4.7.5/plugins/emoticons/img/smiley-cry.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/public/tinymce4.7.5/plugins/emoticons/img/smiley-embarassed.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/public/tinymce4.7.5/plugins/emoticons/img/smiley-foot-in-mouth.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/public/tinymce4.7.5/plugins/emoticons/img/smiley-frown.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/public/tinymce4.7.5/plugins/emoticons/img/smiley-innocent.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/public/tinymce4.7.5/plugins/emoticons/img/smiley-kiss.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/public/tinymce4.7.5/plugins/emoticons/img/smiley-laughing.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/public/tinymce4.7.5/plugins/emoticons/img/smiley-money-mouth.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/public/tinymce4.7.5/plugins/emoticons/img/smiley-sealed.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/public/tinymce4.7.5/plugins/emoticons/img/smiley-smile.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/public/tinymce4.7.5/plugins/emoticons/img/smiley-surprised.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/public/tinymce4.7.5/plugins/emoticons/img/smiley-tongue-out.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/public/tinymce4.7.5/plugins/emoticons/img/smiley-undecided.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/public/tinymce4.7.5/plugins/emoticons/img/smiley-wink.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/public/tinymce4.7.5/plugins/emoticons/img/smiley-yell.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/public/tinymce4.7.5/plugins/visualblocks/css/visualblocks.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/public/tinymce4.7.5/skins/lightgray/content.inline.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/public/tinymce4.7.5/skins/lightgray/content.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/public/tinymce4.7.5/skins/lightgray/fonts/tinymce-mobile.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/public/tinymce4.7.5/skins/lightgray/fonts/tinymce-small.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/public/tinymce4.7.5/skins/lightgray/fonts/tinymce-small.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/public/tinymce4.7.5/skins/lightgray/fonts/tinymce-small.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/public/tinymce4.7.5/skins/lightgray/fonts/tinymce-small.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/public/tinymce4.7.5/skins/lightgray/fonts/tinymce.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/public/tinymce4.7.5/skins/lightgray/fonts/tinymce.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/public/tinymce4.7.5/skins/lightgray/fonts/tinymce.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/public/tinymce4.7.5/skins/lightgray/fonts/tinymce.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/public/tinymce4.7.5/skins/lightgray/img/anchor.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/public/tinymce4.7.5/skins/lightgray/img/loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/public/tinymce4.7.5/skins/lightgray/img/object.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/public/tinymce4.7.5/skins/lightgray/img/trans.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/public/tinymce4.7.5/skins/lightgray/skin.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/public/tinymce4.7.5/skins/lightgray/skin.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/public/tinymce4.7.5/tinymce.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/api/ad.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/api/admin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/api/aftersale.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/api/brand.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/api/category.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/api/comment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/api/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/api/coupon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/api/dashboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/api/goods.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/api/groupon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/api/issue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/api/keyword.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/api/log.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/api/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/api/notice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/api/order.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/api/profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/api/region.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/api/role.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/api/stat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/api/storage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/api/topic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/api/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/assets/401_images/401.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/assets/404_images/404.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/assets/404_images/404_cloud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/components/BackToTop/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/components/Breadcrumb/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/components/Hamburger/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/components/Notice/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/components/Pagination/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/components/Screenfull/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/components/ScrollPane/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/components/SizeSelect/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/components/SvgIcon/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/directive/clipboard/clipboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/directive/clipboard/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/directive/permission/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/directive/permission/permission.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/filters/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/icons/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/icons/svg/404.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/icons/svg/bug.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/icons/svg/chart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/icons/svg/clipboard.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/icons/svg/component.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/icons/svg/dashboard.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/icons/svg/documentation.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/icons/svg/drag.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/icons/svg/edit.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/icons/svg/email.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/icons/svg/example.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/icons/svg/excel.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/icons/svg/eye.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/icons/svg/form.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/icons/svg/guide 2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/icons/svg/guide.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/icons/svg/icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/icons/svg/international.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/icons/svg/language.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/icons/svg/link.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/icons/svg/list.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/icons/svg/lock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/icons/svg/message.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/icons/svg/money.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/icons/svg/nested.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/icons/svg/password.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/icons/svg/people.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/icons/svg/peoples.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/icons/svg/qq.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/icons/svg/shopping.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/icons/svg/size.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/icons/svg/star.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/icons/svg/tab.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/icons/svg/table.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/icons/svg/theme.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/icons/svg/tree.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/icons/svg/user.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/icons/svg/wechat.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/icons/svg/zip.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/icons/svgo.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/permission.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/store/getters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/store/modules/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/store/modules/permission.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/store/modules/tagsView.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/store/modules/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/styles/btn.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/styles/element-ui.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/styles/element-variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/styles/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/styles/mixin.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/styles/sidebar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/styles/transition.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/styles/variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/utils/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/utils/clipboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/utils/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/utils/openWindow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/utils/permission.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/utils/print.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/utils/request.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/utils/scrollTo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/utils/validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/vendor/Export2Excel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/config/express.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/config/mall.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/config/order.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/config/wx.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/dashboard/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/errorPage/401.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/errorPage/404.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/goods/comment.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/goods/create.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/goods/edit.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/goods/list.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/layout/Layout.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/layout/components/AppMain.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/layout/components/Navbar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/layout/components/ScrollPane.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/layout/components/Sidebar/FixiOSBug.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/layout/components/Sidebar/Item.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/layout/components/Sidebar/Link.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/layout/components/Sidebar/SidebarItem.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/layout/components/Sidebar/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/layout/components/TagsView.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/layout/components/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/layout/mixin/ResizeHandler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/login/authredirect.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/login/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/mall/aftersale.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/mall/brand.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/mall/category.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/mall/issue.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/mall/keyword.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/mall/order.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/mall/region.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/profile/notice.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/profile/password.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/promotion/ad.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/promotion/coupon.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/promotion/couponDetail.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/promotion/grouponActivity.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/promotion/grouponRule.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/promotion/topic.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/promotion/topicCreate.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/promotion/topicEdit.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/redirect/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/stat/goods.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/stat/order.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/stat/user.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/sys/admin.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/sys/log.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/sys/notice.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/sys/os.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/sys/role.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/user/address.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/user/collect.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/user/feedback.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/user/footprint.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/user/history.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/src/views/user/user.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litemall-admin/vue.config.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-59" />
+    <option name="y" value="48" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mallxw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mallxw" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593859854906" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9455b12-b95b-43fe-b5eb-8d4f0cdc9795" name="Default Changelist" comment="" />
+      <created>1593838606975</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593838606975</updated>
+      <workItem from="1593838612295" duration="2106000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2106000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初始提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="初始提交" />
+  </component>
+</project>
